@@ -4,7 +4,7 @@
 //
 //  Created by 金琦 on 2017/10/25.
 //  Copyright © 2017年 JinQi. All rights reserved.
-//
+//  2017年12月14日23:41:45
 
 #import "ViewController.h"
 /*---------简单工厂--------*/
